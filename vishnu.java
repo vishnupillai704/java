@@ -8,4 +8,5 @@ class test{
    int b=sc.nextInt();
    int c=a*b;
    System.out.println("multiplication of a and b is" +c);}
+   System.out.println("i have added one line");
 }
